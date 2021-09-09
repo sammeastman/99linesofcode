@@ -1,0 +1,35 @@
+body {
+    background-color: cornflowerblue;
+    text-align: center;
+    cursor:crosshair;
+    color:whitesmoke;
+    /*background-image: url("https://www.csaimages.com/pix/ARCH/V/851046_WP.JPG");
+    background-position-x: center;
+    background-position-y: bottom;
+    background-repeat: none; */
+}
+
+h1 {
+    color: rgb(73, 31, 153);
+    font-family: Hind;
+    font-style: oblique;
+    border: 7px solid rgb(46, 41, 41);
+    border-radius: 47px;
+    border-bottom-width: 0px;
+    margin-bottom: 1em;
+    cursor: pointer;
+}
+
+.friend {
+    background-color: rgb(110, 18, 110);
+    border-top: 0px solid black;
+    border-bottom: 25px solid black;
+    border-radius: 75px;
+    font-family: Hind;
+    font-style: italic;
+}
+
+div > h3 {
+    text-transform: uppercase;
+    font-style:normal
+}
